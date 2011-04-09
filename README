@@ -1,0 +1,6 @@
+This is a cython implementation of LDA.
+
+The code is a direct adaptation from Mathieu Blonedl's implmentation.
+See http://www.mblondel.org/journal/2010/08/21/latent-dirichlet-allocation-in-python/
+
+With Cython, we can obtain a 6x speedup.
